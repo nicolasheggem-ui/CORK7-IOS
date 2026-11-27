@@ -1,2 +1,1 @@
-# CORK7-IOS
-V1
+# CORK7-IOS v1
